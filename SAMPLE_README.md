@@ -26,7 +26,8 @@ Fork me on github! Excellent additions will be considered for branch merges!
 Obtain your kitty's consent through your meow translation device, then press and hold the red "test" button for 3 seconds. Your kitty should go through the full range-of-motion and myomer calibration sequence.
 
 ## Questions
-Written by [tmkeller](https://github.com/tmkeller) on GithubEmail the author at timothy.m.keller@gmail.com
+Written by [tmkeller](https://github.com/tmkeller) on Github
+Email the author at timothy.m.keller@gmail.com
 
 ## License
 [CC0](http://creativecommons.org/publicdomain/zero/1.0/)
