@@ -26,7 +26,8 @@ Type node index.js to initiate and simply follow the prompts you wish to fill ou
 Fork this repository at Github: https://github.com/tmkeller/readme-generator
 
 ## Questions
-Written by [tmkeller](https://github.com/tmkeller) on GithubEmail the author at timothy.m.keller@gmail.com
+Written by [tmkeller](https://github.com/tmkeller) on Github 
+Email the author at timothy.m.keller@gmail.com
 
 ## License
 [CC0](http://creativecommons.org/publicdomain/zero/1.0/)
