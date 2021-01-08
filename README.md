@@ -1,20 +1,24 @@
-# All About Kitties
+# Kitties Furrever
 
-## License
-Good
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Description
-Describe the kitties
+All about kitties. They're the best, huh?
 
 ## Installation
-install the kitties
+Hug the kitties.
 
 ## Usage
-pet the kitties
+Pet the kitties.
 
 ## Contributing
-bring more kitties
+Bring more kitties.
 
 ## Tests
-boop the nose
+Boop the snoot. If they don't boop, they're not boopable.
 
+## Questions
+Written by [tmkeller](https://github.com/tmkeller) on GithubEmail the author at timothy.m.keller@gmail.com
+
+## License
+[CC0](http://creativecommons.org/publicdomain/zero/1.0/)
