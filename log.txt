@@ -1,0 +1,19 @@
+Project title: Fluffy Cats
+
+            Project description: Lots of fluffy cats
+
+            Project installation: Install the fluffy cats
+
+            Project usage: Pet the fluffy cats
+
+            Project guidelines: Give me a fluffy cat
+
+            Project test instructions: Boop the nose!
+
+            Project license: GoodProject title: MORE fluffy cats
+            Project description: even more fluffy cats
+            Project installation: install more fluffy cats
+            Project usage: pet them
+            Project guidelines: hug them
+            Project test instructions: snuggle them
+            Project license: Best

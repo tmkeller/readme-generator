@@ -1,0 +1,22 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Professional README generator for coding projects. Built for the University of Washington's Winter 2020 coding bootcamp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Keller",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmkeller/readme-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tmkeller/readme-generator/issues"
+  },
+  "homepage": "https://github.com/tmkeller/readme-generator#readme"
+}
