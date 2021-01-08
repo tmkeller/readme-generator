@@ -1,2 +1,20 @@
-# readme-generator
-Professional README generator for coding projects. Built for the University of Washington's Winter 2020 coding bootcamp.
+# All About Kitties
+
+## License
+Good
+
+## Description
+Describe the kitties
+
+## Installation
+install the kitties
+
+## Usage
+pet the kitties
+
+## Contributing
+bring more kitties
+
+## Tests
+boop the nose
+
