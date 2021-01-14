@@ -181,10 +181,10 @@ function generateMarkdown(data) {
         tableOfContents += `${ index }. [Questions](#questions)\n`;
         newMarkdown += `## Questions\n`
         if ( data.github ) {
-            newMarkdown += `Written by [${ data.github }](https://github.com/${ data.github }) on Github\n`
+            newMarkdown += `Written by [${ data.github }](https://github.com/${ data.github }) on Github.\n`
         }
         if ( data.email ) {
-            newMarkdown += `Email the author at ${ data.email }\n`
+            newMarkdown += `Email the author at ${ data.email }.\n`
         }
         newMarkdown += `\n`
     }
