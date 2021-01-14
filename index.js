@@ -67,7 +67,7 @@ function init() {
         if ( !response ) {
             console.log( "There was an error." );
         } else {
-            writeToFile( 'README.md', response );
+            writeToFile( 'SAMPLE_README.md', response );
         }
     });
 }
