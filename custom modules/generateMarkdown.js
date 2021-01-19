@@ -156,6 +156,11 @@ function generateMarkdown(data) {
         tableOfContents += `${ index }. [Description](#description)\n`;
         newMarkdown += `## Description\n${ data.description }\n\n`
     }
+    if ( data.technologies ) {
+        index++;
+        tableOfContents += `${ index } [Technologies](#technologies)\n`;
+        newMarkdown += `## Technologies\n${ data.technologies }\n\n`
+    }
     if ( data.installation ) {
         index++;
         tableOfContents += `${ index }. [Installation](#installation)\n`;
